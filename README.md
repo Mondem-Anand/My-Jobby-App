@@ -7,6 +7,12 @@ In this project, I have developed the **Jobby App**, an application that offers 
 
 ### Link: https://anandjobbyapp01.ccbp.tech/login
 
+### Login Credentials
+
+### Username: rahul or anand
+
+### Password: rahul@2021 or anand@7854
+
 The key components and functionalities of this project include:
 
 - **User Interface**: I created distinct pages for Login, Home, Jobs, and Job Item Details using React components. These components leverage React's capabilities for handling props, state management, event handling, and form inputs.
